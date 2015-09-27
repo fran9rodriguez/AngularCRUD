@@ -1,0 +1,14 @@
+<a ui-sref="addInvoice" class="btn-primary btn-lg nodecoration">Add New Inovice</a>
+<table class="table movietable">
+    <tr>
+        <td><h3>All Invoices</h3></td>
+        <td></td>
+    </tr>
+    <tr ng-repeat="invoice in Invoices">
+        <td>{{invoice.Description}}</td>
+        <td>
+            <a class="btn btn-primary" ui-sref="viewInvoice({id:invoice.Number})">View</a>
+            <a class="btn btn-danger"  ng-click="deleteInvoice(invoice.idInvoice)">Delete</a>
+        </td>
+    </tr>
+</table>

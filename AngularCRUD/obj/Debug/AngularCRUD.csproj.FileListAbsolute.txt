@@ -1,0 +1,10 @@
+E:\Fran\Projects\AngularCRUD\AngularCRUD\bin\AngularCRUD.dll
+E:\Fran\Projects\AngularCRUD\AngularCRUD\bin\AngularCRUD.pdb
+E:\Fran\Projects\AngularCRUD\AngularCRUD\obj\Debug\AngularCRUD.csprojResolveAssemblyReference.cache
+E:\Fran\Projects\AngularCRUD\AngularCRUD\obj\Debug\AngularCRUD.dll
+E:\Fran\Projects\AngularCRUD\AngularCRUD\obj\Debug\AngularCRUD.pdb
+C:\Fran\Projects\AngularCRUD\AngularCRUD\bin\AngularCRUD.dll
+C:\Fran\Projects\AngularCRUD\AngularCRUD\bin\AngularCRUD.pdb
+C:\Fran\Projects\AngularCRUD\AngularCRUD\obj\Debug\AngularCRUD.csprojResolveAssemblyReference.cache
+C:\Fran\Projects\AngularCRUD\AngularCRUD\obj\Debug\AngularCRUD.dll
+C:\Fran\Projects\AngularCRUD\AngularCRUD\obj\Debug\AngularCRUD.pdb
